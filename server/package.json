@@ -1,0 +1,33 @@
+{
+    "name": "twitter-api",
+    "version": "1.0.0",
+    "description": "Twitter API to fetch tweets based on a geolocation & topic",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@hapi/joi": "^15.1.0",
+        "axios": "^0.19.0",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.0.0",
+        "express": "^4.17.1",
+        "lodash": "^4.17.15",
+        "moment": "^2.24.0",
+        "mongoose": "^5.6.2",
+        "npm-check-updates": "^3.1.13",
+        "twit": "^2.2.11"
+    },
+    "devDependencies": {
+        "eslint": "^5.3.0",
+        "eslint-config-airbnb": "^17.1.1",
+        "eslint-plugin-import": "^2.18.2",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-react": "^7.14.3",
+        "nodemon": "^1.19.1"
+    }
+}
