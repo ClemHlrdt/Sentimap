@@ -1,6 +1,6 @@
 # sentimap
 
-A sentiment analyzer for Twitter
+A sentiment analyzer for Twitter made with TensorFlowJS and CNN.
 
 ### To install
 
