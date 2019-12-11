@@ -1,0 +1,8 @@
+{
+  "name": "Sentimap Twitter API",
+  "description": "NodeJS API used with Sentimap front-end for fetching and classifying tweets by emotion",
+  "repository": "https://github.com/ClemHlrdt/Sentimap",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

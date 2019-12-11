@@ -1,15 +1,6 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
 import { Doughnut } from 'react-chartjs-2';
-import {
-    Heading,
-    Hero,
-    Container,
-    Section,
-    Tile,
-    Box,
-    Image
-} from 'react-bulma-components';
 
 import './SentiStats.css';
 export default class SentiStats extends Component {
