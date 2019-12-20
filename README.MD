@@ -37,3 +37,7 @@ cd client
 npm install
 npm start
 ```
+
+
+# Live version available here: [Sentimap](https://sentimap.netlify.com/)
+
